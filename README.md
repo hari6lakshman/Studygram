@@ -1,1 +1,1 @@
-# Studygram website
+# Studygram website.
